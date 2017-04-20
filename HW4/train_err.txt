@@ -1,0 +1,32 @@
+file name--> hw4train.txt
+------------- regular perceptron --------------
+1 th perception:
+0.04128440366972477
+2 th perception:
+0.04036697247706422
+3 th perception:
+0.02110091743119266
+4 th perception:
+0.01834862385321101
+------------- voted and average perceptron --------------
+1 pass voted perceptron error:  0.06697247706422019
+1 pass average perceptron error:  0.0798165137614679
+--------->
+2 pass voted perceptron error:  0.04036697247706422
+2 pass average perceptron error:  0.05412844036697248
+--------->
+3 pass voted perceptron error:  0.029357798165137616
+3 pass average perceptron error:  0.03761467889908257
+After 3 passes: 
+Three lowest coordinate: 
+he 
+team 
+game 
+Three largest coordiante: 
+file 
+program 
+line 
+--------->
+4 pass voted perceptron error:  0.024770642201834864
+4 pass average perceptron error:  0.03394495412844037
+--------->

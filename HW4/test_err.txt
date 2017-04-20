@@ -1,0 +1,23 @@
+file name--> hw4test.txt
+------------- regular perceptron --------------
+1 th perception:
+0.05305039787798409
+2 th perception:
+0.058355437665782495
+3 th perception:
+0.04509283819628647
+4 th perception:
+0.04774535809018567
+------------- voted and average perceptron --------------
+1 pass voted perceptron error:  0.08753315649867374
+1 pass average perceptron error:  0.11671087533156499
+--------->
+2 pass voted perceptron error:  0.0610079575596817
+2 pass average perceptron error:  0.08222811671087533
+--------->
+3 pass voted perceptron error:  0.04509283819628647
+3 pass average perceptron error:  0.0610079575596817
+--------->
+4 pass voted perceptron error:  0.04509283819628647
+4 pass average perceptron error:  0.050397877984084884
+--------->
